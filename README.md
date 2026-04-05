@@ -46,6 +46,15 @@ How It Works
  Outcome
 
 Both input formats are successfully converted into a standardized output format, ensuring consistency in telemetry data processing.
+ 
+Example Output:
+{
+  "deviceId": "D-1001",
+  "timestamp": 1696154400000,
+  "temperature": 25,
+  "humidity": 60
+}
+
 
 Author
 
